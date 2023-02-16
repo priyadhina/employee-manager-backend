@@ -1,18 +1,37 @@
 # employee-manager-backend
 
-Command to check demos:
-npm install
-npm start
-open http://localhost:4000
+Backend repo for employee manager project
 
-Default login credentials:
-Standard user:
-username - user
-password - user
 
-Admin user:
-username - admin
-password - admin
+**Getting Started**
 
-Notes:
+1. Install all dependencies:
+
+        npm install
+
+
+2. Run the development server:
+
+        npm start
+
+Open http://localhost:3000 with your browser to see the result.
+
+
+**Default login credentials:**
+
+*Standard user credentials:*
+
+    username - user
+
+    password - user
+
+
+*Admin user credentials:*
+
+    username - admin
+
+    password - admin
+
+**Notes:**
+
 By default, have added two employees.
